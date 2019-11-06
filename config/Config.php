@@ -1,7 +1,7 @@
 <?php 
 
 /* 
-* Code by: ShiraMaster
+* Code by: Crxwler
 * Derechos reservados
 */
 
