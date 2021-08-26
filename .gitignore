@@ -1,7 +1,7 @@
 ##### Windows
 #phpintel
 .phpintel/
-*.php-temp
+*.php-tmp
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
